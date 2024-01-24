@@ -1,7 +1,8 @@
+# Hi, I'm Tosin Faith. 
 
 <table border="0">
  <tr>
-	<b style="font-size:30px">Software Engineer</b>
+	<b style="font-size:30px">Software Engineer at CliqueShoppa</b>
  </tr>
  
 </table>
@@ -19,3 +20,22 @@
   <a href="https://www.instagram.com/thetosinfaith/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+
+
+```javascript
+const stack = {
+	proficient: ["Python", "Java", "HTML", "CSS", "JavaScript/TypeScript"],
+	learning: ["MongoDB", "Git", "MySQL"],
+	frameworks: ["Django", "Tailwind.css", "React.js", "Next.js"],
+	areasOfInterest: ["Front-end", "App development", "Product management"],
+};
+
+var hobbies = ["Design Thinking" ,"Blogging", "Art & Painting"];
+```
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api?username=thetosinfaith&show_icons=true&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
+  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=thetosinfaith&layout=compact&exclude_repo=github-readme-stats&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
+</div>
+
