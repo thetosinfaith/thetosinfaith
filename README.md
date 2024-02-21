@@ -25,7 +25,8 @@
 
 ```javascript
 const stack = {
-	proficient: ["Python", "Java", "HTML", "CSS", "JavaScript/TypeScript"],
+	techSkills: ["Python", "Java", "HTML", "CSS", "JavaScript/TypeScript"],
+        developmentPractices: ["Test Driven Development", "Object oriented programming", "Continuous integration", "Pair Programming"],
 	learning: ["MongoDB", "Git", "MySQL"],
 	frameworks: ["Django", "Tailwind.css", "React.js", "Next.js"],
 	areasOfInterest: ["Front-end", "App development", "Product management"],
