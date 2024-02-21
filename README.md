@@ -26,7 +26,7 @@
 ```javascript
 const stack = {
 	techSkills: ["Python", "Java", "HTML", "CSS", "JavaScript/TypeScript"],
-        developmentPractices: ["Test Driven Development", "Object oriented programming", "Continuous integration", "Pair Programming"],
+        developmentPractices: ["Object oriented programming", "Test Driven Development", "Pair Programming"],
 	learning: ["MongoDB", "Git", "MySQL"],
 	frameworks: ["Django", "Tailwind.css", "React.js", "Next.js"],
 	areasOfInterest: ["Front-end", "App development", "Product management"],
